@@ -1,2 +1,2 @@
-# plantulm_meta
-PlantUML Meta Notation
+# PLANT UML META NOTATION
+Artifacts for diagramming META using PlantUML
